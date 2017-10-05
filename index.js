@@ -33,3 +33,8 @@ function makeInt(a,10){
   number = parseInt(a,10);
   return number;
 };
+
+function preserveDecimal(a){
+  number = parseInt(a,10);
+  return number;
+}
