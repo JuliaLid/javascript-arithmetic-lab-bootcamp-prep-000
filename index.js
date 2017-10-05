@@ -1,6 +1,6 @@
-var a = 5
-var b = 9
+var number
 
-function addNumbers(){
-  console.log(a + b);
+function addNumbers(a,b){
+  number = a + b
+  return number;
 }
