@@ -1,5 +1,5 @@
 var number;
-function addNumbers(a,b){
+function add(a,b){
   number = a + b;
   return number;
 }
